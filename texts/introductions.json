@@ -4,5 +4,9 @@
   "Ich heiße {NAME} und habe {REASON} {PLACE} gefunden.",
   "Zu meinem Bedauern habe ich {REASON} gefunden. Dies fand ich {PLACE}.",
   "Ich möchte Ihnen berichten, dass ich entwas entsetzliches {PLACE} gesehen habe. Genauer gesagt habe ich {REASON} gefunden!",
-  "Ich hätte eine tolle Idee für einen Ihrer Berichte. Die Idee kam mir, als ich {PLACE} {REASON} entdeckt habe!"
+  "Ich hätte eine tolle Idee für einen Ihrer Berichte. Die Idee kam mir, als ich {PLACE} {REASON} entdeckt habe!",
+  "Ich freue mich, Ihnen etwas zu berichten! Während ich {PLACE} war fand ich {REASON}! Ungeheuerlich!",
+  "Es ist Verrückt, aber ich fand {PLACE} {REASON}!",
+  "Ich heiße {NAME}, während {PLACE} habe ich {REASON} gefunden.",
+  "Ich, {NAME}, habe vor kurzem {PLACE} {REASON} gefunden. Ich bin schockiert, Sie müssen sich das anssehen!"
 ]
