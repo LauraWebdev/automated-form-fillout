@@ -1,0 +1,15 @@
+{
+  "name": "automated-leftwing-reporting",
+  "version": "1.0.0",
+  "description": "Definitely not to be used against right-wing censoring websites!!!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "puppeteer": "^1.18.1"
+  }
+}
