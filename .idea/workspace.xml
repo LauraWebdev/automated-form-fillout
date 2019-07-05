@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f04a84ce-c122-427f-95ac-82be4f58e35b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/texts/cities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/endings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/endingsalutations.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/introductions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/lastnames.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/mailhosts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/names.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/places.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/reasons.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/salutations.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/websiteintroductions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/websiteparts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts/websitepartsinbetweens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+            <state relative-caret-position="306">
+              <caret line="99" column="19" lean-forward="true" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="419">
+                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -68,6 +65,7 @@
         <option value="$PROJECT_DIR$/texts/salutations.json" />
         <option value="$PROJECT_DIR$/texts/reasons.json" />
         <option value="$PROJECT_DIR$/bot.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -113,6 +111,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -147,12 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562344821403</updated>
-      <workItem from="1562344829495" duration="4701000" />
+      <workItem from="1562344829495" duration="5421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4701000" />
+    <option name="totallyTimeSpent" value="5421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -160,11 +159,11 @@
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -282,8 +281,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        <state relative-caret-position="306">
+          <caret line="99" column="19" lean-forward="true" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="419">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
