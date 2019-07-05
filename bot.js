@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 // Settings
-let settingsHeadless = false;
+let settingsHeadless = true;
 
 // Text Sources
 const textSalutations = require('./texts/salutations.json');
@@ -47,7 +47,7 @@ const textEndingSalutations = require('./texts/endingsalutations.json');
 	let randomEndingsalutation = textEndingSalutations[Math.floor(Math.random()*textEndingSalutations.length)];
 
 	let currentDate = new Date();
-	let constructedDate = currentDate.getDate() + "." + currentDate.getMonth() + "." + currentDate.getFullYear();
+	let constructedDate = currentDate.getDate() + "." + (currentDate.getMonth() + 1) + "." + currentDate.getFullYear();
 
 	let outputMessage = randomSalutation + ", \n" + randomIntroduction + "\n\n" + randomWebsiteIntroduction + constructedWebsite + "\n\n" + randomEnding + "\n\n" + randomEndingsalutation + "\n" + randomName + " " + randomLastname;
 
