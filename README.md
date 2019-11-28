@@ -18,16 +18,12 @@ The current database of names, text pieces and introductions is not quite big. I
 | File | Purpose | Placeholders |
 | ---- | ------- | ------------ |
 | salutations.json | Greetings | - |
-| introductions.json | The first sentence | {NAME}, {REASON}, {PLACE} |
+| introductions.json | The first sentence | {NAME}, {ORG}, {FINDING} |
 | names.json | First names | - |
 | lastnames.json | Last names | - |
-| places.json | Places where you found {REASON} | - |
-| reasons.json | The reason, why you are writing the message | - |
-| websiteintroductions.json | The sentence before the domain URL | - |
-| websiteparts.json | Main words for the domain | - |
-| websitepartsinbetweens.json | Connecting words for the domain | - |
+| organisations.json | Places where you found {FINDING} | - |
+| findings.json | The findings, why you are writing the message | - |
 | mailhosts.json | Free mail hosters | - |
-| cities.json | Cities and places | - |
 | endings.json | Final sentences | - |
 | endingsalutations.json | Salutations before the name | - |
 

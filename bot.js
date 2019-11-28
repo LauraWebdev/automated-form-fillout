@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 // Settings
-let settingsHeadless = true;
+let settingsHeadless = false;
 
 // Text Sources
 const textSalutations = require('./texts/salutations.json');
